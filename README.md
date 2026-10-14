@@ -57,7 +57,9 @@ El **ejercicio propuesto** es el trabajo de la sesión, y fue propuesto y desarr
 
 ### 📤 Entrega y bonificación
 
-El desarrollo del ejercicio propuesto se sube a **Canvas el mismo día de la ayudantía, hasta las 14:50**. Entregarlo dentro de plazo otorga **una décima (+0,1)** en la nota del **Proyecto 2**.
+> 📅 **Plazo excepcional:** como el material se publicó el miércoles en vez del lunes, el ejercicio propuesto de esta ayudantía se puede subir a **Canvas hasta el domingo 18 de octubre a las 23:59**, en vez del mismo día hasta las 14:50.
+
+Entregarlo dentro de plazo otorga **una décima (+0,1)** en la nota del **Proyecto 2**.
 
 ---
 
